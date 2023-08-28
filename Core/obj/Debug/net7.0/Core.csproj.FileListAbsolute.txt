@@ -1,0 +1,23 @@
+C:\Users\janus\Desktop\projects\Bodega\Core\bin\Debug\net7.0\Core.deps.json
+C:\Users\janus\Desktop\projects\Bodega\Core\bin\Debug\net7.0\Core.dll
+C:\Users\janus\Desktop\projects\Bodega\Core\bin\Debug\net7.0\Core.pdb
+C:\Users\janus\Desktop\projects\Bodega\Core\obj\Debug\net7.0\Core.csproj.AssemblyReference.cache
+C:\Users\janus\Desktop\projects\Bodega\Core\obj\Debug\net7.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janus\Desktop\projects\Bodega\Core\obj\Debug\net7.0\Core.AssemblyInfoInputs.cache
+C:\Users\janus\Desktop\projects\Bodega\Core\obj\Debug\net7.0\Core.AssemblyInfo.cs
+C:\Users\janus\Desktop\projects\Bodega\Core\obj\Debug\net7.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\janus\Desktop\projects\Bodega\Core\obj\Debug\net7.0\Core.dll
+C:\Users\janus\Desktop\projects\Bodega\Core\obj\Debug\net7.0\refint\Core.dll
+C:\Users\janus\Desktop\projects\Bodega\Core\obj\Debug\net7.0\Core.pdb
+C:\Users\janus\Desktop\projects\Bodega\Core\obj\Debug\net7.0\ref\Core.dll
+C:\Users\Anderson David\Downloads\Bodega\Core\bin\Debug\net7.0\Core.deps.json
+C:\Users\Anderson David\Downloads\Bodega\Core\bin\Debug\net7.0\Core.dll
+C:\Users\Anderson David\Downloads\Bodega\Core\bin\Debug\net7.0\Core.pdb
+C:\Users\Anderson David\Downloads\Bodega\Core\obj\Debug\net7.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anderson David\Downloads\Bodega\Core\obj\Debug\net7.0\Core.AssemblyInfoInputs.cache
+C:\Users\Anderson David\Downloads\Bodega\Core\obj\Debug\net7.0\Core.AssemblyInfo.cs
+C:\Users\Anderson David\Downloads\Bodega\Core\obj\Debug\net7.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Anderson David\Downloads\Bodega\Core\obj\Debug\net7.0\Core.dll
+C:\Users\Anderson David\Downloads\Bodega\Core\obj\Debug\net7.0\refint\Core.dll
+C:\Users\Anderson David\Downloads\Bodega\Core\obj\Debug\net7.0\Core.pdb
+C:\Users\Anderson David\Downloads\Bodega\Core\obj\Debug\net7.0\ref\Core.dll
